@@ -15,7 +15,7 @@ Spatial and Temporal Analysis of Intraperitoneal Chemotherapy Delivery in Hetero
 
 # How to run the simulation
 1. Clone the repository
-git clone https://github.com/AleyshaC-ucsd/BENG_227_Team_5.git
+git clone https://github.com/maggiechiyun/Modeling-Intraperitoneal-Chemotherapy-Delivery-in-Tumors.git
 2. Install all required packages.
 pip install -r requirements.txt
 3. Run the models and attain spatial and temporal analysis results in Jupyter notebook BENG227_IP_delivery.ipynb.
